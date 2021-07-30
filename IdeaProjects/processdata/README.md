@@ -1,44 +1,29 @@
 # processdata
-
-FIXME: description
+Clojure app to sum two columns in the testdata.txt file
 
 ## Installation
+sudo snap install intellij-idea-community --classic
+Install cursive plugin:
+https://cursive-ide.com/userguide/
 
-Download from http://example.com/FIXME.
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar processdata-0.1.0-standalone.jar [args]
+Open file in IntelliJ with the Cursive plugin
+1. Open project
+2. Right click on project.clj and Run Repl
+3. Modify clj file.  Save.  Right click in editor, REPL -> Load File in REPL
+4. Run (-main) in window below REPL
 
 ## Options
 
-FIXME: listing of options this app accepts.
 
 ## Examples
 
-...
 
 ### Bugs
 
 ...
 
-### Any Other Sections
-### That You Think
-### Might be Useful
-
 ## License
 
-Copyright © 2021 FIXME
-
-This program and the accompanying materials are made available under the
-terms of the Eclipse Public License 2.0 which is available at
-http://www.eclipse.org/legal/epl-2.0.
-
-This Source Code may also be made available under the following Secondary
-Licenses when the conditions for such availability set forth in the Eclipse
-Public License, v. 2.0 are satisfied: GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or (at your
-option) any later version, with the GNU Classpath Exception which is available
-at https://www.gnu.org/software/classpath/license.html.
