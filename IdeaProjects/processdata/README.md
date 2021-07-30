@@ -3,7 +3,9 @@ Clojure app to sum two columns in the testdata.txt file
 
 ## Installation
 sudo snap install intellij-idea-community --classic
+
 Install cursive plugin:
+
 https://cursive-ide.com/userguide/
 
 
